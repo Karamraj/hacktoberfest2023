@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/gaganchaudhary/hacktoberfest2023/Hello World In All Language",
+      "program": "/Users/gaganchaudhary/hacktoberfest2023/Hello World In All Language/build/Debug/outDebug"
+    }
+  ]
+}
