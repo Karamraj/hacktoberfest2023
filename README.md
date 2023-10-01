@@ -30,25 +30,10 @@
 
 # How To Make Your First Pull Request
 
-You can contribute by sending writing "Hello World" in any language and make sure you put in right folder.
-
-<div align="center">
-<h2> OR </h2>
-</div>
-
 ## 1. Create / Upload Your Code / Algorithms
 
-Create/Upload your code in the folder following the convention `Add Code Here`
-- Choose an extract language folder `drop your code`
-- Below is `an example` to add file properly
-- You can follow up `any languages`
-```
-Add Code Here/PYTHON/<YOUR-FILERNAME>.py
-```
-```
-Add Code Here/C++/<YOUR-FILERNAME>.cpp
-```
-You can follow any pathway a `code` or `profile information`
+You can contribute by sending writing "Hello World" in any language and make sure you put in right folder.
+
 
 ## 2. Wait for Pull Request to merge
 
