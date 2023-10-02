@@ -1,7 +1,7 @@
 # HacktoberFest 2023 `OPEN FIRST` Pull Request
 ![HacktoberFest 2023](https://github.com/ossamamehmood/Hacktoberfest2023/raw/main/.github/logo.png)
 
-
+This wont count towards your PR. But will help you understand the process!
 
 ## This Project Is Perfect For Your First Pull Request
 
